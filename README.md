@@ -14,4 +14,4 @@ composer install
 ``` bash
 composer test
 ```
-[![Build Status](https://travis-ci.com/organizacion-sesion-3-ManuelaRipolles/sesion5-travis.svg?branch=master)](https://travis-ci.com/organizacion-sesion-3-ManuelaRipolles/sesion5-travis)
+[![Build Status](https://travis-ci.com/organizacion-sesion-3-MariaSauraLlloria/sesion5-travisCI.svg?branch=master)](https://travis-ci.com/organizacion-sesion-3-MariaSauraLloria/sesion5-travisCI-master)
