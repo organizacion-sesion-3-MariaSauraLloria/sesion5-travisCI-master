@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": "^7.4.0"
+    },
+    "scripts": {
+        "test": "phpunit tests"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0.0"
+    }
+}
